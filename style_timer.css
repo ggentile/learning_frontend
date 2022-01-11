@@ -1,0 +1,27 @@
+body {
+    background-color: #5b9aa0;
+}
+
+#relogio {
+    background-color: white;
+    margin-top: 80px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 15px;
+    width: 600px;
+    height: 180px;
+}
+
+#titulo {
+    margin-top: 100px;
+    padding-top: 25px;
+}
+
+#display {
+    font-weight: 300;
+    font-size: 48px;    
+}
+
+.pausado {
+    color: red;
+}
